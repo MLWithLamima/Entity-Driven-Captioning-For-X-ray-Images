@@ -28,8 +28,6 @@ The decoder attends over visual features and text context to generate tokens.
 
 ## Data
 **IU Chest X-ray (Kaggle)** — ~**7,470** images from **3,955** patients with paired reports.  
-Place images under `data/raw/`. Do **not** commit raw data or any PHI.
-
 ---
 
 ## Method in brief
