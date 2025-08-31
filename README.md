@@ -23,8 +23,6 @@ Radiology is time-constrained and text-heavy. Pure vision captioners often miss 
 The decoder attends over visual features and text context to generate tokens.
 
 ![Architecture](reports/figures/architecture.png)
-*Multi-head attention inside the decoder.*
-![Multi-head attention](reports/figures/mha.png)
 
 ---
 
