@@ -4,7 +4,7 @@
 This project builds an **entity-aware captioner** that fuses **Chest X-ray image features** with **diagnostic report context** to generate short, clinically meaningful captions. I compare CheXNet (DenseNet-121), ResNet, and EfficientNet encoders with a Transformer decoder, and evaluate with **BLEU**, **METEOR**, **CIDEr**, and **BioBERT cosine similarity**.
 
 > Main notebook: `notebooks/caption-model.ipynb`  
-> (Optional) write-up: `reports/Data_Analysis_Report.pdf`
+> write-up: `reports/Data_Analysis_Report.pdf`
 
 ---
 
